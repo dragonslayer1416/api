@@ -1,6 +1,7 @@
 ﻿blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
+filenames-secure==0.0.8
 Flask==3.0.3
 iniconfig==2.0.0
 itsdangerous==2.2.0
